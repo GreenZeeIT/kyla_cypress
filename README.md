@@ -11,3 +11,11 @@ npm i
 ```python
 npx cypress run --browser chrome
 ```
+
+## Counter
+
+Link of the counter.
+
+```bash
+https://github.com/Klerith/react-counter-app
+```
